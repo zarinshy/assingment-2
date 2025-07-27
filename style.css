@@ -114,6 +114,9 @@
        gap: 20px;
        margin: auto;
     }
+     .plants, .plants img{
+      width: 180px;
+     }
 
     .btn-primary {
        background-color: #E95A08;
@@ -273,15 +276,16 @@
        background-repeat: no-repeat;
        background-position: center;
        background-size: cover;
+       margin-left: -1%;
     }
 
     .fill-up {
-       padding: 1.5% 45% 1.5% 1%;
+       padding: 1% 25% 1% 1%;
        border: 0;
     }
 
     .subs {
-       padding: 1.5%;
+       padding: 1% 4%;
        background-color: #E95A08;
        color: white;
        border: none;
